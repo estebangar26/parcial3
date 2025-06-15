@@ -1,0 +1,9 @@
+INFORMACIÓN DEL PACIENTE
+==============================
+
+Clave del paciente: prueba1
+Nombre: Esteban Garcia Otalvaro
+Edad: 23
+ID del paciente: 1001446658
+Clave DICOM asociada: prueba1
+Dimensiones de la imagen 3D: (99, 512, 512)

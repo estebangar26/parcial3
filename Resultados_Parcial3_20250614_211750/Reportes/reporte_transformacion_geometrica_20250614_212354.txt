@@ -1,0 +1,11 @@
+REPORTE DE PROCESAMIENTO - TRANSFORMACION_GEOMETRICA
+============================================================
+Fecha y hora: 2025-06-14 21:23:54
+
+Clave DICOM: prueba1
+Transformación aplicada: Traslación
+Desplazamiento X: 100
+Desplazamiento Y: -50
+Dimensiones imagen original: (512, 512)
+Archivo de comparación: transformacion_prueba1_X100_Y-50.png
+Archivo imagen trasladada: imagen_trasladada_prueba1_X100_Y-50.png

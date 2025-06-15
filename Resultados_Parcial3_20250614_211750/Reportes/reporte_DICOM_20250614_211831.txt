@@ -1,0 +1,9 @@
+REPORTE DE PROCESAMIENTO - DICOM
+============================================================
+Fecha y hora: 2025-06-14 21:18:31
+
+Clave: prueba1
+Número de archivos DICOM: 99
+Dimensiones del volumen 3D: (99, 512, 512)
+Ruta original: C:\Users\LENOVO\OneDrive - Universidad de Antioquia\Escritorio\P3.Esteban Garcia\Datos
+Archivos procesados: 000000.dcm, 000001.dcm, 000002.dcm, 000003.dcm, 000004.dcm...
